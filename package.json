@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "yarn tsc && node index.js"
+  },
+  "dependencies": {
+    "typescript-rc": "npm:typescript@^3.9.1-rc",
+    "typescript-latest": "npm:typescript@3.8.3"
+  }
+}
